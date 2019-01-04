@@ -32,4 +32,10 @@ python3
 # 退出
 exit（）
 
+# 用指定CPU运行程序
+taskset -pc 1 5662: 指定CPU 1
+taskset -pc 0-3 5662：指定CPU 0-3
+
+# 查看pid为5662的程序使用的CPU是哪个或者哪些
+taskset -p 5662
 
