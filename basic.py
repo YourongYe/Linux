@@ -4,7 +4,12 @@ ssh root@129.186.0.232
 # 查看进程
 top
 top之后再按1: 看到每个cpu的运行状态
+  
+example：
+16.3%us, 62.3%sy
 
+us：用户空间占用CPU百分比
+sy：系统占用CPU百分比
 # 查看当前路径
 pwd
 
