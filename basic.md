@@ -8,7 +8,7 @@ top
 pwd
 
 # 退出目前的进程
-ctrl + z
+ctrl + z  
 q
 
 # 进入当前路径下的某个文件夹
