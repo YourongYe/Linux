@@ -17,6 +17,9 @@ pwd
 ctrl + z  
 q
 
+# 终止当前程序
+ctrl + c  
+
 # 进入当前路径下的某个文件夹
 cd yoyo
 
