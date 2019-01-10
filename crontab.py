@@ -11,3 +11,8 @@ root 身份登录到命令行
 输入 0 */1 * * * /home/work/start-service.sh
 同时按下 ctrl+c 退出编辑模式
 按下 shift+: 输入 wq 退出 crontab
+  
+# 如果执行遇到问题，系统会自动发邮件给用户；终端会显示‘You have new mail’
+# 邮件信息存在 /var/mail/YoYo 路径下
+# 在Finder里找到Macintosh HD 并 按组合键：cmd + shift + '>', 即可找到文件并删除
+
