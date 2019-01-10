@@ -16,3 +16,5 @@ root 身份登录到命令行
 # 邮件信息存在 /var/mail/YoYo 路径下
 # 在Finder里找到Macintosh HD 并 按组合键：cmd + shift + '>', 即可找到文件并删除
 
+#!/usr/bin/ksh
+*/2 * * * * root python /Users/YoYo/Desktop/Intelligent_Invest/program/AutoHTML.py
