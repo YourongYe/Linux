@@ -20,6 +20,7 @@ SHELL=/bin/bash
 PATH=/sbin:/bin:/usr/sbin:/usr/bin 
 MAILTO=root
 */2 * * * * root python /Users/YoYo/Desktop/Intelligent_Invest/program/AutoHTML.py
+12 16 * * * root python /Users/YoYo/Desktop/Intelligent_Invest/program/AutoHTML.py
 */2 * * * * /anaconda3/bin/python.exe /Users/YoYo/Desktop/Intelligent_Invest/program/AutoHTML.py
 # 编辑器改为nano
 export EDITOR=/usr/bin/nano
