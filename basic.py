@@ -42,3 +42,8 @@ taskset -pc 0-3 5662：指定CPU 0-3
 # 查看pid为5662的程序使用的CPU是哪个或者哪些
 taskset -p 5662
 
+# 返回根目录
+cd ~
+
+# 进入某路径
+cd /Users/YoYo
