@@ -19,7 +19,7 @@ PATH=/anaconda3/bin # 指定了python3的位置
 35 17 * * * python3 /Users/YoYo/Desktop/Intelligent_Invest/program/AutoHTML.py # 每天下午5点35执行
 */2 * * * * python3 /Users/YoYo/Desktop/Intelligent_Invest/program/AutoHTML.py # 每隔两个分钟执行一次
 0 0 * * 2-6 python3 /Users/YoYo/Desktop/Intelligent_Invest/program/AutoHTML.py # 每周二到周六midnight执行
-
+0 0 * * 2,3,5 python3 /Users/YoYo/Desktop/Intelligent_Invest/program/AutoHTML.py # 每周二，周三，周五midnight执行
 
 # 编辑器改为nano或者vim
 export EDITOR=/usr/bin/nano
