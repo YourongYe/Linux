@@ -47,3 +47,9 @@ cd ~
 
 # 进入某路径
 cd /Users/YoYo
+
+# 查找某个文件的路径
+which python
+which anaconda
+
+# 查找某类特殊命名的文件
