@@ -52,4 +52,6 @@ cd /Users/YoYo
 which python
 which anaconda
 
-# 查找某类特殊命名的文件
+# 查找某一目录下文件的内容包含指定字符的文件名
+ls alpha2**.csv
+ls alpha2*.csv # 两者效果相同
