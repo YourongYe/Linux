@@ -8,7 +8,7 @@ crontab -r
 输入 crontab -e
 按下 a或者i 键进入到编辑模式
 按下 ctrl+c 退出编辑模式
-按下 shift+: 输入 wq 退出 crontab
+按下 shift+q: 输入 wq 退出 crontab
   
 # 如果执行遇到问题，系统会自动发邮件给用户；终端会显示‘You have new mail’
 # 邮件信息存在 /var/mail/YoYo 路径下
