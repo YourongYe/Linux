@@ -1,0 +1,17 @@
+git init (initialising)
+
+git clone  
+* cloned the repository from GitHub to local (can do via command)
+
+git add .(everything) <filename> or <foldername> (a group of files) - staging
+
+git commit -m “message” (not -m, will open a text editor and you can write multiple lines). Commit the changes
+
+git push (to GitHub)
+
+git pull (to bring to local repository)
+
+
+git status
+
+git log
