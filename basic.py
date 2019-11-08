@@ -22,6 +22,7 @@ ctrl + c
 
 # 进入当前路径下的某个文件夹
 cd yoyo
+cd /Applications/MAMP/COMP0022/
 
 # 查看当前文件夹下的所有文件
 ls
