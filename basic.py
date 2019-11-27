@@ -56,3 +56,9 @@ which anaconda
 # 查找某一目录下文件的内容包含指定字符的文件名
 ls alpha2**.csv
 ls alpha2*.csv # 两者效果相同
+
+# 强制关掉某个程序
+ps -ax  # 查看所有进程
+ps -ax | grep Chrome # 查看所有Chrome相关的进程
+kill 9355 # 关掉9355这个进程
+
