@@ -13,6 +13,9 @@ sy：系统占用CPU百分比
 # 查看当前路径
 pwd
 
+# 新建文件夹(在当前路径下)
+mkdir Projects
+
 # 退出目前的进程
 ctrl + z  
 q
