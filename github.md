@@ -27,8 +27,8 @@ git checkout test - Now we are in the test branch.
 git branch - You can list out all the branches in local
 
 # Merge your branch to master branch
-git checkout master
-git pull 
-git checkout <the name of your branch>
-git merge master
--> then accept the changes 
+git checkout master  
+git pull   
+git checkout <the name of your branch>  
+git merge master  
+-> then accept the changes   
